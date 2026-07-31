@@ -12,7 +12,7 @@ Users input their transport mode, fuel type, fuel economy, distance and (for ele
 Files
 EmissionsCalculatorGUI.m — Interactive MATLAB GUI (built with uifigure/uigridlayout). Inputs dynamically enable/disable based on the selected transport mode and fuel type, and results are displayed with a live bar chart breakdown.
 
-Emissions_Calculator_fixed.xlsx — Excel version of the same model, with automated calculations and linked charts, for users without access to MATLAB.
+EmissionsCalculator.xlsx — Excel version of the same model, with automated calculations and linked charts, for users without access to MATLAB.
 
 Background: The model was validated against 3 real-world case studies (short, medium and long-distance trips, including multi-leg journeys with mode changes) to compare lifecycle emissions across transport options.
 
