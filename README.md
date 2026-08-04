@@ -5,6 +5,7 @@ A MATLAB and Excel tool for calculating the full lifecycle greenhouse gas (GHG) 
 What it does: The calculator quantifies emissions across 10 transport and fuel-type combinations (petrol, diesel, PHEV and EV cars; diesel, electric and biomethane buses; diesel and electric trains; underground; airplane), covering two categories of emissions:
 
 Direct emissions — CO₂, CH₄ and N₂O produced during use, calculated using IPCC AR6 GWP100 factors
+
 Indirect emissions — electricity generation, fuel production, vehicle manufacturing, and end-of-life disposal
 
 Users input their transport mode, fuel type, fuel economy, distance and (for electric modes) their local electricity grid, and the tool returns a full emissions breakdown plus a lifecycle total.
